@@ -91,6 +91,21 @@ We create a new Policy
 
 ![image](https://github.com/user-attachments/assets/fa03c388-2ab1-442a-878b-7ef6bd347392)
 
+We select a Service
+
+![image](https://github.com/user-attachments/assets/3a4554ea-beaa-46a1-b171-6b57fce310ea)
+
+We select S3 and ListAllMyBuckets
+
+![image](https://github.com/user-attachments/assets/e4b019fe-ba85-494b-9157-e336586b293b)
+
+We input the policy name and we leave the other options with the default values
+
+We create the policy
+
+![image](https://github.com/user-attachments/assets/8a198062-e3cd-4cc1-9545-064e43d88ac7)
+
+
 ## 5. We Attach the Policy to the Role
 
 
