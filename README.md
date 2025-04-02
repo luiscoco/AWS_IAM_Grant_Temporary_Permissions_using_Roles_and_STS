@@ -20,7 +20,9 @@ We select Users menu option and we press the Create button for creating a new Us
 
 ![image](https://github.com/user-attachments/assets/ac6a2828-96b8-4a7e-98b5-577c6bf0aacc)
 
-We 
+![image](https://github.com/user-attachments/assets/44a16f58-882f-446b-8751-03ee77717abd)
+
+
 
 ## 3. We Create a new Access Key for the new User
 
