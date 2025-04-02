@@ -81,7 +81,7 @@ We press the Create Role button and leave the other options with the default val
 
 We can verify the new role was created
 
-![image](https://github.com/user-attachments/assets/103e0841-eee0-4190-9a5a-98728adfc348)
+![image](https://github.com/user-attachments/assets/74c176cc-ed80-4ad3-98ad-ca7247f8b2f7)
 
 ## 4. We Create a new Policy
 
