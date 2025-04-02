@@ -111,6 +111,9 @@ We confirm new policy was created
 
 ## 5. We Attach the Policy to the Role
 
+We navigate to the Roles menu option in the IAM
+
+![image](https://github.com/user-attachments/assets/213e7a7a-34a7-4669-a44e-a6f80fe87b56)
 
 
 
