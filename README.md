@@ -1,5 +1,15 @@
 # AWS IAM Grant Temporary Permissions using Roles and STS
 
+Summary:
+
+1. Create a new user
+
+2. Create a new role
+
+3. Create a new policy
+
+4. 
+
 ## 1. We login in AWS Console
 
 We login AWS Console with an Admin User different to the Root User
