@@ -103,11 +103,9 @@ We input the policy name and we leave the other options with the default values
 
 We create the policy
 
-![image](https://github.com/user-attachments/assets/8a198062-e3cd-4cc1-9545-064e43d88ac7)
-
 We confirm new policy was created
 
-![image](https://github.com/user-attachments/assets/d48ac6cd-c1e5-42f5-8f0d-69fd17c20821)
+![image](https://github.com/user-attachments/assets/93c91a1f-a99b-40a8-a4fa-a8f2553cabe4)
 
 ## 5. We Attach the Policy to the Role
 
