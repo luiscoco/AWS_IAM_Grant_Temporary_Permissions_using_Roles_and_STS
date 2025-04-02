@@ -115,6 +115,8 @@ We navigate to the Roles menu option in the IAM
 
 ![image](https://github.com/user-attachments/assets/213e7a7a-34a7-4669-a44e-a6f80fe87b56)
 
+![image](https://github.com/user-attachments/assets/800d67ed-1145-4aa5-8887-3e213de93d71)
+
 
 
 ## 6. We create a new S3 bucket
