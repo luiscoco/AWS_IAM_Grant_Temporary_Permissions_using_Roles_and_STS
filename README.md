@@ -123,6 +123,7 @@ We navigate to the Roles menu option in the IAM
 
 ## 6. We create a new S3 bucket
 
+![image](https://github.com/user-attachments/assets/fec49c18-5ea4-473f-942d-3e2f029c479e)
 
 ## 7. We login in AWS Console with the new User
 
