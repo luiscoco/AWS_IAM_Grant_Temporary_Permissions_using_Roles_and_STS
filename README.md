@@ -91,10 +91,6 @@ We create a new Policy
 
 ![image](https://github.com/user-attachments/assets/fa03c388-2ab1-442a-878b-7ef6bd347392)
 
-We 
-
-
-
 ## 5. We Attach the Policy to the Role
 
 
