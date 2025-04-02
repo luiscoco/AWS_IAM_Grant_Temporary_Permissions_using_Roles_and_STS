@@ -4,17 +4,17 @@ In this hands-on exploration of AWS Identity and Access Management (**IAM**), I 
 
 Steps covered: 
 
-a) Created a new IAM user
+a) **Create** a new **IAM user**
 
-b) Defined a custom IAM role with a trust relationship
+b) **Define a custom IAM role** with a trust relationship
 
-c) Created a policy to allow s3:ListAllMyBuckets access
+c) **Create a policy** to allow s3:ListAllMyBuckets access
 
-d) Attached the policy to the role
+d) **Attach** the **policy to the role**
 
-e) Created a new Amazon S3 bucket
+e) **Create** a new Amazon **S3 bucket**
 
-f) Assumed the role and successfully listed all S3 buckets
+f) Assume the role and successfully **listed all S3 buckets**
 
 This approach ensures least-privilege access while enabling secure, time-bound operations — a best practice for managing access in AWS environments.
 
