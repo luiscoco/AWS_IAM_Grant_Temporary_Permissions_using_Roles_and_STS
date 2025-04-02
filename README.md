@@ -127,6 +127,13 @@ We navigate to the Roles menu option in the IAM
 
 ## 7. We login in AWS Console with the new User
 
+We first have to sign out from the actual user 
+
+![image](https://github.com/user-attachments/assets/498fc093-ec69-4f13-92d3-0c3a127a02f7)
+
+We login with the new user created in this post section 2
+
+
 
 ## 8. We list buckets in the S3
 
