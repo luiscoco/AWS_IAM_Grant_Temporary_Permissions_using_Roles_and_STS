@@ -124,8 +124,10 @@ We navigate to the Roles menu option in the IAM
 ## 6. We create a new S3 bucket
 
 
+## 7. We login in AWS Console with the new User
 
-## 7. We list buckets in the S3
+
+## 8. We list buckets in the S3
 
 
 
