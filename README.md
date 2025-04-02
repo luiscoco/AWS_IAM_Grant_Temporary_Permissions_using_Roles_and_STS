@@ -25,7 +25,22 @@
 
 
 
-## 6. We 
+## 6. We Attach the Policy to the Role
+
+
+
+
+## 7. We create a new S3 bucket
+
+
+
+## 8. We list buckets in the S3
+
+
+
+
+
+
 
 
 
