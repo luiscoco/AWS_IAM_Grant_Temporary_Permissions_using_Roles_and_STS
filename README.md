@@ -28,33 +28,27 @@ We select Users menu option and we press the Create button for creating a new Us
 
 ![image](https://github.com/user-attachments/assets/6ea310dc-4873-49aa-b337-dfc5375249d6)
 
-## 3. We Create a new Access Key for the new User
+## 3. We Create a new Role
+
+
+
+
+## 4. We Create a new Policy
 
 
 
 
 
-## 4. We Create a new Role
+## 5. We Attach the Policy to the Role
 
 
 
 
-## 5. We Create a new Policy
+## 6. We create a new S3 bucket
 
 
 
-
-
-## 6. We Attach the Policy to the Role
-
-
-
-
-## 7. We create a new S3 bucket
-
-
-
-## 8. We list buckets in the S3
+## 7. We list buckets in the S3
 
 
 
