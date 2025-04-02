@@ -153,7 +153,10 @@ We login with the new user created in this post section 2
 
 ![image](https://github.com/user-attachments/assets/9d1b2eaa-b4c4-4df6-a930-3317ffa972d3)
 
-We 
+We Switch role to access the S3 buckets list
+
+![image](https://github.com/user-attachments/assets/298f541e-dd20-4500-92a6-4c532f42149c)
+
 
 ## 9. We list buckets in the S3
 
