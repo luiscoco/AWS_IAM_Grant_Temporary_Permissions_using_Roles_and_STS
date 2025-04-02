@@ -157,10 +157,19 @@ We Switch role to access the S3 buckets list
 
 ![image](https://github.com/user-attachments/assets/298f541e-dd20-4500-92a6-4c532f42149c)
 
+We select the new role created in section 3 in this post
+
+![image](https://github.com/user-attachments/assets/a0006112-1b43-4f1d-9e77-e802108113b5)
 
 ## 9. We list buckets in the S3
 
+We navigate to the S3 service
 
+![image](https://github.com/user-attachments/assets/7129eeb7-2bae-4b2f-a851-465cacc24d67)
+
+We can see the bucket in the list
+
+![image](https://github.com/user-attachments/assets/793bb7d1-ed81-4645-aa85-2990a0792b09)
 
 
 
