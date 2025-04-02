@@ -1,14 +1,22 @@
 # AWS IAM Grant Temporary Permissions using Roles and STS
 
-Summary:
+In this hands-on exploration of AWS Identity and Access Management (**IAM**), I walked through how to **grant temporary, scoped permissions** to a new IAM user by leveraging roles and AWS Security Token Service (STS).
 
-1. Create a new user
+Steps covered: 
 
-2. Create a new role
+a) Created a new IAM user
 
-3. Create a new policy
+b) Defined a custom IAM role with a trust relationship
 
-4. 
+c) Created a policy to allow s3:ListAllMyBuckets access
+
+d) Attached the policy to the role
+
+e) Created a new Amazon S3 bucket
+
+f) Assumed the role and successfully listed all S3 buckets
+
+This approach ensures least-privilege access while enabling secure, time-bound operations — a best practice for managing access in AWS environments.
 
 ## 1. We login in AWS Console
 
