@@ -137,6 +137,12 @@ Then we press the button Enable console access
 
 ![image](https://github.com/user-attachments/assets/3488d532-4b67-4615-abc4-66a82364b5fe)
 
+We select a Custom password 
+
+![image](https://github.com/user-attachments/assets/9445de0d-94fe-4123-929b-b58e16b7de85)
+
+![image](https://github.com/user-attachments/assets/12e8bfa9-7ae5-4c59-afe9-ff6a44e33e76)
+
 ## 8. We login in AWS Console with the new User
 
 We first have to sign out from the actual user 
