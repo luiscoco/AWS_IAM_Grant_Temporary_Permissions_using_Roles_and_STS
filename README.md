@@ -30,8 +30,38 @@ We select Users menu option and we press the Create button for creating a new Us
 
 ## 3. We Create a new Role
 
+In the IAM resources we select Roles in the left hand side menu and we create a new role
 
+![image](https://github.com/user-attachments/assets/adfa1db8-3d72-48c5-bdaa-290f66b195ed)
 
+We select a Custom Trust Policy
+
+![image](https://github.com/user-attachments/assets/ea4c62aa-062a-4793-bc3b-1d92839dfe85)
+
+We input the Role definition
+
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Principal": {
+        "AWS": "arn:aws:iam::954718177936:user/iam-test-user"
+      },
+      "Action": "sts:AssumeRole"
+    }
+  ]
+}
+```
+
+![image](https://github.com/user-attachments/assets/a393feda-7dda-46fd-b924-c821db7d1e99)
+
+![image](https://github.com/user-attachments/assets/110adbfb-fa26-4f8f-af40-56bed7754954)
+
+We can verify the new role was created
+
+![image](https://github.com/user-attachments/assets/103e0841-eee0-4190-9a5a-98728adfc348)
 
 ## 4. We Create a new Policy
 
