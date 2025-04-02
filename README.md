@@ -57,6 +57,8 @@ We input the Role definition
 
 ![image](https://github.com/user-attachments/assets/a393feda-7dda-46fd-b924-c821db7d1e99)
 
+We press the Create Role button and leave the other options with the default values
+
 ![image](https://github.com/user-attachments/assets/110adbfb-fa26-4f8f-af40-56bed7754954)
 
 We can verify the new role was created
