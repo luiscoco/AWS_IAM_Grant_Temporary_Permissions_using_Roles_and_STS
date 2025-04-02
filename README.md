@@ -147,7 +147,7 @@ We select a Custom password
 
 We first have to sign out from the actual user 
 
-![image](https://github.com/user-attachments/assets/498fc093-ec69-4f13-92d3-0c3a127a02f7)
+![image](https://github.com/user-attachments/assets/b7a72436-3957-44da-aeec-beb0c152fdf3)
 
 We login with the new user created in this post section 2
 
