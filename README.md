@@ -1,5 +1,13 @@
 # AWS IAM Grant Temporary Permissions using Roles and STS
 
+**IMPORTRANT NOTE**: visit the following sites to get the latest information about AWS SDK for .NET
+
+https://docs.aws.amazon.com/sdk-for-net/v4/developer-guide/csharp_code_examples.html
+
+https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/dotnetv4
+
+https://github.com/aws/aws-sdk-net/
+
 In this post we are going to implement the same procedure we follow with AWS SDK for .NET v4 (see post https://github.com/luiscoco/AWS_SDK_IAM_Grant_Temporary_Permissions_using_Roles_and_STS), but now with the AWS Console
 
 In this hands-on exploration of AWS Identity and Access Management (**IAM**), I walked through how to **grant temporary, scoped permissions** to a new IAM user by leveraging roles and AWS Security Token Service (STS).
